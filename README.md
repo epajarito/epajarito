@@ -13,7 +13,7 @@ Hola, soy <a href="https://www.x.com/_epajarito" target="_blank" rel="noreferrer
 Soy Full-Stack Web Developer 💻!
 </h2> 
 
-## Soy desarrollador de software enfocado en aplicaciones web (páginas web - todo que sea navegable en la web), tengo ya 9~10 años en la industria, mi pricipal enforque es en el backend, pero no excluyo que también puedo hacer front end 😅.
+## Soy desarrollador de software enfocado en aplicaciones web (páginas web - todo que sea navegable en la web), tengo ya 9~10 años en la industria, mi principal enforque es en el backend, pero no excluyo que también puedo hacer front end 😅.
 
 ### 🤝 Conecta conmigo:
 
