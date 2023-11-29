@@ -29,13 +29,15 @@ Soy Full-Stack Web Developer 💻!
 - Blog
 
 ## 🤓 Actualmente estoy aprendiendo y trabajando en:
-
-- FilamentPHP
-- Livewire
-- React Native
-- Tailwind CSS
-- AWS (ec2)
-- Vue JS v3
+- Desarrollo Backend con Laravel
+- Testing con Pest
+- Desarrollo Backend con FilamentPHP
+- Desarrollo Backend con Livewire
+- Desarrollo mobile con React Native
+- Maquetación Frontend con Tailwind CSS
+- Trabajando en cloud con AWS (ec2)
+- Desarrollo Frontend con Vue JS v2/v3
+- Creación API Rest siguiendo el standard JSON:API
 
 ## 💼 Habilidades técnicas
 
@@ -49,9 +51,8 @@ Soy Full-Stack Web Developer 💻!
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Tools-PHPStorm-informational?style=flat&logo=PhpStorm&color=483285)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 </br>
-</br>
-</br>
+
+📊 Explora mis últimos proyectos a continuación (próximamente) 👇
