@@ -17,7 +17,6 @@ Soy Full-Stack Web Developer 💻!
 
 ### 🤝 Conecta conmigo:
 
-[![LinkedIn](https://img.shields.io/badge/epajarito-%230e76a8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/epajarito/)
 [![Twitter](https://img.shields.io/badge/epajarito-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white 'Twitter')](https://www.x.com/_epajarito)
 [![TikTok](https://img.shields.io/badge/epajarito-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white 'TikTok')](https://www.tiktok.com/@epajarito)
 
